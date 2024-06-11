@@ -4,5 +4,5 @@ blants osu skin collection
 
 ## `blants main skin` 
 
-<img src="\images\blantinglekito.jpg" width="400"/>
+<img href="https://github.com/blantz5/blants_skin_repository/blob/0a69a1cd2f00001cee683780906663499e3c0faf/skins/blantinglekito.osk" src="\images\blantinglekito.jpg" width="400"/>
 
